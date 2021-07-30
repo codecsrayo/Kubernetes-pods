@@ -1,2 +1,5 @@
-Postgres
-Pgadmin
+
+DB:
+* Postgres
+Client:
+*Pgadmin
