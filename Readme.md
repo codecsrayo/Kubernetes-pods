@@ -1,5 +1,5 @@
+DB: <br />
+* Postgres 
 
-DB:
-* Postgres
-Client:
-*Pgadmin
+Client: <br />
+* Pgadmin
